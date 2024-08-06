@@ -26,17 +26,3 @@
 [![contatos](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585998095937)
 [![contatos](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorodrigues2312@gmail.com)
 [![contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rodrigues-3b9605205/)
-
-
-<strong>Literaturas 📒</strong>
-
-
-[[Amazon](https://www.amazon.com.br/ECMAScript-Entre-cabe%C3%A7a-futuro-JavaScript-ebook/dp/B06XWH5WKB/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XN7MV5S9BQOF&keywords=ecma&qid=1644424893&sprefix=ecma%2Caps%2C134&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)](https://www.amazon.com.br/ECMAScript-Entre-cabe%C3%A7a-futuro-JavaScript-ebook/dp/B06XWH5WKB/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XN7MV5S9BQOF&keywords=ecma&qid=1644424893&sprefix=ecma%2Caps%2C134&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
-
-
-
-
-
-
-
-
